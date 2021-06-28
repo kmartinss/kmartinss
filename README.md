@@ -1,4 +1,4 @@
-### Hey, what's up?
+### Hi, there!
 ## I'm Karine 🙆
 
 - I am from 🇧🇷
