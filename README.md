@@ -1,5 +1,5 @@
 ### Hey, what's up?
-## I'm Karine Martins 🙆
+## I'm Karine 🙆
 
 - I am from 🇧🇷
 - I currently work at Tag2u as a frontend developer.
