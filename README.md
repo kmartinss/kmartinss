@@ -1,7 +1,7 @@
 ### Hey, what's up?
 ## I'm Karine Martins 🙆
 
-- I live in São Paulo - 🇧🇷
+- I am from 🇧🇷
 - I currently work at Tag2u as a frontend developer.
 - I am studying Systems Analysis and Development at Anhembi Morumbi University.
 
