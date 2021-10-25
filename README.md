@@ -2,7 +2,7 @@
 ## I'm Karine 🙆
 
 - I am from 🇧🇷
-- I currently work at Tag2u as a frontend developer.
+- I currently work at Tag2u as a fullstack developer.
 - I am studying Systems Analysis and Development at Anhembi Morumbi University.
 
 ## Connect with me:
