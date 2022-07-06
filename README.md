@@ -3,7 +3,7 @@
 
 - I am from 🇧🇷
 - I currently work at Tag2u as a fullstack developer.
-- I am studying Systems Analysis and Development at Anhembi Morumbi University.
+- I recently graduated in Systems Analysis and Development at Anhembi Morumbi University. \o/
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/karine-martins101/" target="_blank">
