@@ -2,7 +2,7 @@
 ## I'm Karine 🙆
 
 - I am from 🇧🇷
-- I currently work at Digesto as a fullstack developer.
+- I currently work at Digesto as a software engineer.
 - I recently graduated in Systems Analysis and Development at Anhembi Morumbi University. \o/
 
 ## Connect with me:
